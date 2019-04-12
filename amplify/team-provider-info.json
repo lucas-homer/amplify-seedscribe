@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-seedscribe-20190406102447-authRole",
+            "UnauthRoleArn": "arn:aws:iam::457410650781:role/amplify-seedscribe-20190406102447-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::457410650781:role/amplify-seedscribe-20190406102447-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-seedscribe-20190406102447-deployment",
+            "UnauthRoleName": "amplify-seedscribe-20190406102447-unauthRole",
+            "StackName": "amplify-seedscribe-20190406102447",
+            "StackId": "arn:aws:cloudformation:us-east-1:457410650781:stack/amplify-seedscribe-20190406102447/1d496c00-5880-11e9-bf7b-0e7f598ae3ee"
+        },
+        "categories": {
+            "auth": {
+                "cognito1aeb9f49": {}
+            }
+        }
+    }
+}
